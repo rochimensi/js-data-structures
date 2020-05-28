@@ -13,3 +13,11 @@ The following functions are provided:
 - Search for a node value
 - Get indexes of a node value
 
+## Binary Search Tree
+The following functions are provided:
+- Insert Node
+- Has value
+- Depth-First Search (in-order, pre-order, post-order)
+- Breadth-First Search
+- Get minimum value
+- Get maximum value
