@@ -21,3 +21,10 @@ The following functions are provided:
 - Breadth-First Search
 - Get minimum value
 - Get maximum value
+
+## Hash Table
+The following functions are provided:
+- Hash a key
+- Insert Node with key-value
+- Get a Node by key
+- Get all Nodes
